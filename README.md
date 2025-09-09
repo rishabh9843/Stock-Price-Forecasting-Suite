@@ -40,13 +40,13 @@ The initial analysis used only historical close prices to train the models.
 ![Original RF Plot](images/original_rf_performance.png)
 
 **Original XGBoost Performance**
-![Original XGBoost Plot](images/original_xgboost_performance.png)
+![Original XGBoost Plot](images/original_XGBoost_performance.png)
 
 **Original LightGBM Performance**
-![Original LightGBM Plot](images/original_lightgbm_performance.png)
+![Original LightGBM Plot](images/original_LightGBM_performance.png)
 
 **Original LSTM Historical Fit**
-![Original LSTM Fit Plot](images/original_lstm_historical_fit.png)
+![Original LSTM Fit Plot](images/LSTM.png)
 
 ### 2. Advanced Analysis Results
 
